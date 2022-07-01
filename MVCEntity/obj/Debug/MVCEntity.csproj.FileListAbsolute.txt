@@ -1,0 +1,12 @@
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\bin\Debug\MVCEntity.dll.config
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\bin\Debug\MVCEntity.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\bin\Debug\MVCEntity.pdb
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\bin\Debug\EntityFramework.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\bin\Debug\EntityFramework.xml
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\obj\Debug\MVCEntity.csproj.AssemblyReference.cache
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\obj\Debug\MVCEntity.csproj.CoreCompileInputs.cache
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\obj\Debug\MVCEntity.csproj.CopyComplete
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\obj\Debug\MVCEntity.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCEntity\obj\Debug\MVCEntity.pdb

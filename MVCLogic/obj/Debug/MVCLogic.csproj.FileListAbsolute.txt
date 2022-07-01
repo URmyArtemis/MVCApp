@@ -1,0 +1,17 @@
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\MVCLogic.dll.config
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\MVCLogic.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\MVCLogic.pdb
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\EntityFramework.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\MVCEntity.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\MVCEntity.pdb
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\MVCEntity.dll.config
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\EntityFramework.xml
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\obj\Debug\MVCLogic.csproj.AssemblyReference.cache
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\obj\Debug\MVCLogic.csproj.CoreCompileInputs.cache
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\obj\Debug\MVCLogic.csproj.CopyComplete
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\obj\Debug\MVCLogic.dll
+C:\Users\zhenh\OneDrive\Desktop\MVC Project\MVCLogic\obj\Debug\MVCLogic.pdb

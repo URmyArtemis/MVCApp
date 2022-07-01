@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCApp.csproj", "{0A11E708-1FF8-4D75-8243-A8540B524389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCEntity", "..\MVCEntity\MVCEntity.csproj", "{1414A101-9E3F-4636-A8F4-A380201012A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCLogic", "..\MVCLogic\MVCLogic.csproj", "{EB65288D-7981-44A4-8A2F-C301C8744EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A11E708-1FF8-4D75-8243-A8540B524389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A11E708-1FF8-4D75-8243-A8540B524389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A11E708-1FF8-4D75-8243-A8540B524389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A11E708-1FF8-4D75-8243-A8540B524389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1414A101-9E3F-4636-A8F4-A380201012A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1414A101-9E3F-4636-A8F4-A380201012A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1414A101-9E3F-4636-A8F4-A380201012A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1414A101-9E3F-4636-A8F4-A380201012A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB65288D-7981-44A4-8A2F-C301C8744EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB65288D-7981-44A4-8A2F-C301C8744EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB65288D-7981-44A4-8A2F-C301C8744EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB65288D-7981-44A4-8A2F-C301C8744EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAF1EF5-F6B3-427B-B964-0247514EABB3}
+	EndGlobalSection
+EndGlobal

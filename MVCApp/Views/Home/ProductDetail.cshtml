@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link href="~/Content/layui/css/layui.css" rel="stylesheet" />
+    <link href="~/Content/ProductDetail/index.css" rel="stylesheet" />
+    
+</head>
+
+<body>
+    <div class="layui-form" lay-filter="addForm" style="padding:20px">
+        <div class="layui-form-item">
+
+            <div class="layui-inline">
+                <label class="layui-form-label">Product Name</label>
+                <div class="layui-input-inline">
+                    <input name="ProductName" lay-verify="required" autocomplete="off" class="layui-input" />
+                </div>
+            </div>
+
+            <div class="layui-inline">
+                <label class="layui-form-label">Price</label>
+                <div class="layui-input-inline">
+                    <input name="ProductPrice" lay-verify="required" autocomplete="off" class="layui-input" />
+                </div>
+            </div>
+
+            <div class="layui-inline">
+                <label class="layui-form-label">Manufactor</label>
+                <div class="layui-input-inline">
+                    <input name="ProductManu" lay-verify="required" autocomplete="off" class="layui-input" />
+                </div>
+>            </div>
+
+            <div class="layui-inline">
+                <label class="layui-form-label">Year</label>
+                <div class="layui-input-inline">
+                    <input name="ProductYear" lay-verify="required" autocomplete="off" class="layui-input" />
+                </div>
+            </div>
+        </div>
+
+        <div class="layui-form-item">
+            <div class="layui-input-block" style="text-align:center">
+                <button type="submit" class="layui-btn btnSub" lay-submit="" lay-filter="sub">Submit</button>
+                <button class="layui-btn layui-btn-primary" onclick="parent.layer.close(parent.winObj)">Cancel</button>
+            </div>
+        </div>
+    </div>
+    <script src="~/Content/jQuery/jquery-3.6.0.min.js"></script>
+    <script src="~/Content/layui/layui.js"></script>
+    <script src="~/Content/ProductDetail/index.js"></script>
+</body>
+</html>
+
